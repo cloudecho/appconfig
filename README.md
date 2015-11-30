@@ -3,8 +3,7 @@
 
 使用说明 
 ------
-
-https://github.com/cloudecho/appconfig/blob/master/src/test/java/com/github/cloudecho/appconfig/AppConfigsTest.java
+https://github.com/cloudecho/appconfig/blob/master/src/test/java/com/github/cloudecho/config/AppConfigsTest.java
 
 Maven引用
 --------
