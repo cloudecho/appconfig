@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param key="SOFT_VERSION" name="软件版本号">1.0.0</param>
+	<param key="CACHE_SECONDS" name="数据缓存时间" description="单位:秒">15</param>
+	<param key="SERVER_CONFIG" name="服务器扩展配置,继承自本应用配置"></param>
+</config>
